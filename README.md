@@ -4,6 +4,20 @@ Point it at a folder, get a sorted image grid and a keyboard-navigable lightbox.
 
 Built from a real-world catalog page where images are dropped into per-group folders and need to appear on a page without a CMS.
 
+---
+
+<p align="center">
+  <a href="https://www.strictlymedical.co.za">
+    <img src="docs/strictly-medical-logo.svg" alt="Strictly Medical" width="96" height="96">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Extracted from <a href="https://www.strictlymedical.co.za"><b>Strictly Medical</b></a> — SAHPRA-accredited medical equipment repair in South Africa. The library powers the product catalog at <a href="https://www.strictlymedical.co.za/catalog.php">strictlymedical.co.za/catalog.php</a>.</sub>
+</p>
+
+---
+
 ## Install
 
 ```bash
