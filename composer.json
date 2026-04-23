@@ -1,0 +1,26 @@
+{
+    "name": "nattie-nkosi/folder-gallery",
+    "description": "Point it at a folder, get a sorted image gallery with a lightweight vanilla-JS lightbox. No dependencies.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["gallery", "lightbox", "images", "php"],
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5 || ^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SM\\FolderGallery\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SM\\FolderGallery\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
